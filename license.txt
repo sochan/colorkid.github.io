@@ -1,0 +1,57 @@
+Name, Author, Download URL, Attribution Url, License Type
+green-board, Clker-Free-Vector-Images, https://pixabay.com/en/green-blackboard-chalk-eraser-307835/, N/A, CC0
+blackboard-operation.png, Clker-Free-Vector-Images,https://pixabay.com/en/blackboard-school-chalkboard-math-23421/, N/A, CC0
+fruits/apple1, OpenClipart-Vectors, https://pixabay.com/en/apple-fruit-red-ripe-fresh-2025667/, N/A, CC0
+fruits/cherry, OpenClipart-Vectors, https://pixabay.com/en/cherry-stem-fruit-red-ripe-fresh-575547/, N/A, CC0
+fruits/strawberry, DavidRockDesign, https://pixabay.com/en/strawberry-illustration-fruit-red-3177709/, N/A, CC0
+fruits/orange, DavidRockDesign, https://pixabay.com/en/orange-illustration-fruit-citrus-3177693/, N/A, CC0
+fruits/orange, DavidRockDesign, https://pixabay.com/en/apple-illustration-manzano-green-3177692/, N/A, CC0
+animals/koala, GraphicMama-team, https://pixabay.com/en/koala-animal-cute-tree-stick-leaf-1459298/, N/A, CC0
+animals/panda, GraphicMama-team, https://pixabay.com/en/panda-little-panda-baby-panda-baby-1454629/, N/A, CC0
+animals/kangaroo, GraphicMama-team, https://pixabay.com/en/kangaroo-animal-baby-kangaroo-1454587/, N/A, CC0
+background/grass, OpenClipart-Vectors, https://pixabay.com/en/background-border-grass-green-herb-2029768/ , N/A, CC0
+background/grass, OpenClipart-Vectors, https://pixabay.com/en/background-border-grass-green-herb-2029768/ , N/A, CC0
+background/landscape, Wild0ne, https://pixabay.com/en/landscape-twilight-light-night-1844227/, N/A, CC0
+background/landscape2, Wild0ne, https://pixabay.com/en/landscape-twilight-light-night-1844229/, N/A, CC0
+background/landscape3, Wild0ne, https://pixabay.com/en/landscape-twilight-light-night-1844226/, N/A, CC0
+background/landscape4, Wild0ne, https://pixabay.com/en/landscape-twilight-light-night-1844230/, N/A, CC0
+background/sapin, OpenClipart-Vectors, https://pixabay.com/en/background-evergreen-glitch-hiking-2025158/, N/A, CC0
+background/sunset, OdeMysticWay, https://pixabay.com/en/sunset-river-mountains-sky-nature-2976428/, N/A, CC0
+background/night3, OpenClipart-Vectors, https://pixabay.com/en/country-cow-grass-landscape-sun-1295915/, N/A, CC0
+background/night6, OpenClipart-Vectors, https://pixabay.com/en/redo-restart-retry-arrows-green-151210/, N/A, CC0
+background/night11, OpenClipart-Vectors, https://pixabay.com/en/snowmen-reindeer-christmas-noel-160883/, N/A, CC0
+background/night12, OpenClipart-Vectors, https://pixabay.com/en/flowers-landscape-nature-plant-2022672/, N/A, CC0
+background/day4, OpenClipart-Vectors, https://pixabay.com/en/landscape-spring-summer-fields-152502/, N/A, CC0
+images/animations/retry.png, OpenClipart-Vectors, https://pixabay.com/en/landscape-winter-ice-cold-xmas-2024099/, N/A, CC0
+images/animations/kids.png, OpenClipart-Vectors, https://pixabay.com/en/boy-girl-hand-in-hand-kids-school-160168/, N/A, CC0
+images/animations/next.png, GDJ, https://pixabay.com/en/arrow-pointer-direction-navigation-3322605/, N/A, CC0
+background/day5, Pixaline, https://pixabay.com/en/wintry-home-tree-winter-snow-2915190/, N/A, CC0
+background/day6, OpenClipart-Vectors, https://pixabay.com/en/landscape-winter-ice-cold-xmas-2024099/, N/A, CC0
+animations/mute0.png, Tehdog, https://commons.wikimedia.org/wiki/File:Speaker_Icon.svg, N/A, CC0
+animations/mute1.png, Tehdog, https://commons.wikimedia.org/wiki/File:Mute_Icon.svg, N/A, CC0
+background/night4, kellepics, https://pixabay.com/en/fantasy-landscape-mountains-human-2925250/, N/A, CC0
+background/night5, Devanath, https://pixabay.com/en/man-and-horses-sunset-silhouette-2389830/, N/A, CC0
+background/day8, deMysticWay, https://pixabay.com/en/pond-garden-crane-japanese-serene-3046592/, N/A, CC0
+background/day9, eommina, https://pixabay.com/en/landscape-sky-rainbow-garden-1954307/, N/A, CC0
+background/day10, deMysticWay, https://pixabay.com/en/playground-animals-dog-cat-tree-3044380/, N/A, CC0
+background/day11, kropekk_pl,https://pixabay.com/en/cloud-clouds-sky-blue-white-346706/, N/A, CC0
+background/day12, DavidRockDesign, https://pixabay.com/en/illustration-caricature-kawaii-sun-1546834/, N/A, CC0
+background/night7, OpenClipart-Vectors, https://pixabay.com/en/bridge-house-lake-landscape-2023956/, N/A, CC0
+background/night8, deMysticWay, https://pixabay.com/en/temple-spiritual-scenic-mountain-3049432/, N/A, CC0
+background/night9, Wild0ne, https://pixabay.com/en/landscape-twilight-light-night-1844231/, N/A, CC0
+background/night10, Cris032194, https://pixabay.com/en/beach-sunset-sunset-beach-ocean-2245049/, N/A, CC0
+sounds/Electrical_Sweep-Sweeper.mp3, NA, http://soundbible.com/1795-Electrical-Sweep.html, N/A, CC0
+sounds/Turkey_Purring.mp3, NA, http://soundbible.com/1314-Turkey-Purring.html, N/A, CC0
+sounds/Happy_Loop.mp3.wav, DL Sounds, https://www.dl-sounds.com/royalty-free/happy-loop/, N/A, CC0
+sounds/Carolans_Dream.mp3, DL Sounds, https://www.dl-sounds.com/wp-content/uploads/edd/2018/04/Carolans-Dream.zip, N/A, CC0
+https://www.dl-sounds.com/royalty-free/category/children/page/3/
+Pinterest.com.au, numbers, https://www.pinterest.com.au/pin/518265869602883324/, NA, NA
+ALEXANDER, timeout.mp3, http://www.orangefreesounds.com/twin-bell-alarm-clock-ringing-short/, CC BY-NC 4.0
+images/animations/locked.png, OpenClipart-Vectors, https://pixabay.com/en/padlock-lock-locked-security-1294295/, N/A, CC0
+images/animations/home.png, OpenClipart-Vectors, https://pixabay.com/en/cottage-house-home-building-little-160367/, N/A, CC0
+images/animations/gameover.gif, Sports animations, http://www.robdedel.nl/gaming-1.html, N/A, N/A
+images/animations/bingo.gif, cagcomm, http://cagcomm.com/united-betting-corner.html, N/A, N/A
+images/animations/star.png, Clker-Free-Vector-Images, https://pixabay.com/en/star-yellow-shapes-glowing-shine-37412/, N/A, CC0
+sounds/actions/cheering.mp3, NA, http://soundbible.com/478-Cheering-3.html, NA, NA
+sounds/actions/gameover.mp3, myfox14, https://freesound.org/people/myfox14/sounds/382310/, NA, CC0
+sounds/colours, Learn English Kids, https://learnenglishkids.britishcouncil.org/en/word-games/colours, NA, NA

@@ -1,0 +1,301 @@
+/* Responsive Full Background Image Using CSS
+ * Tutorial URL: http://sixrevisions.com/css/responsive-background-image/
+*/
+body {
+
+  /* Image is centered vertically and horizontally at all times */
+  background-position: center center;
+
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+
+  /* Makes the image fixed in the viewport so that it doesn't move when
+     the content height is greater than the image height */
+  background-attachment: fixed;
+
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+
+  /* Pick a solid background color that will be displayed while the background image is loading */
+  background-color:#464646;
+
+  /* SHORTHAND CSS NOTATION
+   * background: url(background-photo.jpg) center center cover no-repeat fixed;
+   */
+}
+
+/*
+  ********** Menu ****************
+*/
+
+table {
+    border-collapse: collapse;
+    width: 400px;
+}
+
+table, th, td{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+th {
+  background-color: #AA6239;
+  color: #FFC9AA;
+}
+
+.pass{
+  background-color: green;
+}
+
+.fail{
+  background-color: red;
+}
+
+button.gameMenu{
+  height: 15vh;
+  width: 20vw;
+  background-color: #FFFFAA;
+  color: #555500;
+  margin: 10px;
+  font-size: 14px;
+  border-radius: 45px;
+
+}
+
+.gameButton{
+  height: 60px;
+  width: 17vw;
+  background-color: #FFFFAA;
+  color: #555500;
+  margin: 20px;
+  font-size: 14px;
+  border-radius: 45px;
+
+}
+
+.gameScore{
+  height: 60px;
+  width: 30vw;
+  background-color: #FFFFAA;
+  color: #555500;
+  font-size: 14px;
+  border-radius: 45px;
+  line-height: 60px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.levelContainer{
+  height: 60px;
+  width: 200px;
+  margin: 10px;
+  background-color: #FFFFAA;
+  border-radius: 40px;
+}
+
+img.level{
+  width: 30px;
+}
+
+img.levelGame{
+  width: 30px;
+  margin-top: 10px;
+}
+
+
+img.retryBackground{
+  height: 32px;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+img.kids{
+  height: 20vw;
+  vertical-align: middle;
+  margin-top: 30px;
+  float: left;
+}
+
+div.title{
+  background-color: white;
+  border-radius: 45px;
+  text-align: center;
+  line-height: 35px;
+
+}
+
+div h1{
+  text-align: center;
+  display: inline;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+@media screen and (max-width:900px){
+  div h1{
+    text-align: center;
+    display: inline;
+    font-size: 1.3em;
+  }
+}
+
+div.menu{
+  text-align: center;
+}
+
+.page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.hide {
+  display: none;
+  z-index: -1; /* moves this behind others */
+}
+
+.myBasket{
+  border-style: solid;
+  border-width: medium;
+  border-top-width: 0px;
+  border-bottom-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+  width: 20vw;
+  margin-right: 2vw;
+}
+.bodyBasket{
+  width: 20vw;
+  height: 20vh;
+  background-color: white;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footerBasket{
+  width: 20vw;
+  height: 10vh;
+  display: block;
+  border-bottom-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+}
+
+
+.homeContainer, .basketContainer, .footerContainer, #gameHead{
+
+  margin: 5px;
+  text-align: center;
+
+  display: -webkit-box;
+
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+  position: relative;
+}
+
+.containerBall{
+
+  margin: 1vw;
+  text-align: center;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.myBall{
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  background-color: green;
+  margin: 0.5vw;
+}
+
+.countDown{
+    background-color: Red;
+    color: white;
+    width: 50px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 45px;
+    margin: 10px;
+}
+
+img.locked{
+  width: 24px;
+  margin: 0px;
+  float: left;
+}
+
+img.star{
+  width: 20px;
+  margin: 1px;
+}
+
+#gameBody{
+  text-align: center;
+}
+#gameWon, #gameOver{
+  width: 250px;
+  margin: 10px;
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+.mute{
+  display: inline;
+  margin-right: 20px;
+}
+
+div.footer {
+    border: 0px;
+    border-radius: 0px;
+    position: absolute;
+    bottom: 2px;
+    text-align: center;
+    width: 100%;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.about{
+  color: White;
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 10px;
+}

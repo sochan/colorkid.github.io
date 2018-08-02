@@ -1,0 +1,114 @@
+========================
+Kid Arithmetic Progress
+========================
+week10:
+13/05/2018
+  . Change Audio component to footer to be available all screen, user can mute or decrease volume
+    wherever they are being; before player needs to click home to change audio setting
+  . Start recording videos
+week9:
+------
+10/05/2018
+  . Fix time out id not well clear when game won then it still to handle the event gameover
+  . Simplify the way to create home buttons manually by reuse a function createHomeButton(levelId, container)
+
+09/05/2018
+  . Working on won stars for each level, there are 3 won stars for each level;
+
+07/05/2018
+  . Fixed new updated Chrome policy about not allow autoplay audio
+  . Unlocked level,
+  . Game scores
+  . Next level
+  . gameover sound
+  . colour voice when user click on
+  . move colour Baskets(from left to right and vice versa)
+  . move colour balls(from left to right and vice versa)
+
+week8:
+------
+02/05/2018
+  . Create colour balls randomly with wrong balls to drag
+  . Next level
+
+01/05/2018
+  . function and animation for Game over
+  . function and animation for bingo
+  . Apply one code to reuse in all level with global variable of array baskets
+  . Next steps is to create colour balls for each baskets varying from level1 to level 4
+
+30/04/2018
+  . Load JSon of user setting
+
+week7:
+------
+29/04/2018
+  . Working with timer ui and event
+  . Think about score for each level, it will be increase whenever kids drag right colour ball with timer
+
+28/04/2018
+  . Defined 11 basic colours for kids
+  . Level1 colour basket and colour ball with drag and drop will reuse for level and create ball
+  . Think about how many ball per game, random number? how is it while nb of basket > 1 (level 2, 3, ...)
+
+27/04/2018
+  . Testing with colour balls and baskets
+  . Brainstorming about logic
+    . Timing while drag ball to baskets
+    . Scores
+    . Basket colour will be random and number of baskets will be depend on level number, ex. level 1: 1 basket, level 2: 2 baskets
+    . Balls, number of diffent colour ball will be random in to the ground to drag
+    . cannot drag wrong colour
+
+26/04/2018
+  . search for play next sound instead of repeat one sounds
+    . autio.onended, but it is working while audio.loop = false.
+  . continue for learning colour parts
+    . Create basket ui with stylesheet
+    . testing ball with colour
+
+25/04/2018
+  . learn colour parts
+    . Ask kid to match Colours
+    . Ask kid to name Colours
+
+23/04/2018
+  . More vector graphic backgrounds for day or night
+  . Working on sounds and audio control
+
+Week6:
+------
+22/04/2018
+  . Function to change background based on day or night with getDate()
+
+21/04/2018
+  . Working on game data
+
+20/04/2018
+  . Thinking about background Image of the game to fit smart phone or iPad
+
+Week5:
+------
+10/04/2018
+  . Add utilities
+  . Add data
+
+
+week4 & intra trimester break :
+------------------------------
+29/03/2018
+  . Including ui.js
+  . Game structure and bran storming
+
+week3:
+-----
+21/03/2018
+. Search some images
+  .fruits https://pixabay.com/en/cherry-stem-fruit-red-ripe-fresh-575547/
+  .animals https://pixabay.com/en/photos/?q=baby+animal&hp=&image_type=vector&order=popular&cat=animals&min_width=&min_height=
+
+23/03/2018
+  .nature
+  .Community
+
+. Australian curriculum for kids from Kindergarten to Grade 6 of Primary school
